@@ -1,5 +1,4 @@
 # SIR-Model-Tuberculosis-Transmission-with-Theraphy
-This is a repository for storing calculation scribbles, code and temporary script files of Wetland Environmental Mathematics assignment.
 Paper: https://iopscience.iop.org/article/10.1088/1742-6596/1462/1/012056/meta
 
 ### Model Formation
