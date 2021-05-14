@@ -1,7 +1,7 @@
 # SIR-Model-Tuberculosis-Transmission-with-Theraphy
 Paper: https://iopscience.iop.org/article/10.1088/1742-6596/1462/1/012056/meta
 
-### Formation of a Model for the Spread of Tuberculosis Transmission
+### Model Formation
 <details><summary>List</summary>
   
 - Suspectible
@@ -19,7 +19,7 @@ Paper: https://iopscience.iop.org/article/10.1088/1742-6596/1462/1/012056/meta
 - Endemic equilibrium point 
   </details>
 
-### Stability Analysis of Tuberculosis Spread Model
+### Stability Analysis of Model
 <details><summary>List</summary>
   
 - Stability of the equilibrium point E0 (disease-free)
